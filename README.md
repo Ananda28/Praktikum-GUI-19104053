@@ -1,1 +1,6 @@
-# Praktikum-GUI-19104053
+# Praktikum-GUI
+
+# Modul 1
+VARIABEL, TIPE DATA DAN OPERATOR
+
+

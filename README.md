@@ -1,1 +1,4 @@
-# Praktikum-GUI-19104053
+# Praktikum-GUI
+
+# Modul 2
+STRUKTUR KONTROL DAN FUNGSI

@@ -1,1 +1,4 @@
-# Teori dan Praktikum-GUI-19104053
+# Praktikum-GUI
+
+# Modul 4
+PENGENALAN QT DESIGNER UNTUK MEMBUAT APLIKASI GUI

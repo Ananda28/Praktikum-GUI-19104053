@@ -1,2 +1,4 @@
-# Teori & Praktikum-GUI
+# Praktikum-GUI
 
+# Modul 4
+PENGENALAN QT DESIGNER UNTUK MEMBUAT APLIKASI GUI

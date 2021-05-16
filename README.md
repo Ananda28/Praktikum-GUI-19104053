@@ -1,1 +1,5 @@
-# 19104053-Ananda-Aulia-Pemrograman-GUI
+# Praktikum-GUI
+
+# Modul 5
+WIDGET DALAM PYQT
+

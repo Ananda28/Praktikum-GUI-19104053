@@ -1,3 +1,3 @@
-Praktikum-GUI
-Modul 6
+# Praktikum-GUI
+## Modul 6
 PENGUNAAN PyQt
